@@ -1,4 +1,4 @@
-# Salut, moi c'est Guillian Gely ! 👨‍💻
+# Salut, moi c'est Guillian Gely !
 
 **Étudiant en BUT 2 Informatique | Aspirant Expert en Cybersécurité**
 
@@ -7,7 +7,7 @@ Mon objectif : poursuivre sur un Bac+5 en Cybersécurité.
 
 ---
 
-### 🖥️ Mon Projet Actuel : Home Lab & Infra Hybride
+### Mon Projet Actuel : Home Lab & Infra Hybride
 *Je n'héberge pas encore tout mon code ici, car je travaille beaucoup sur des environnements virtualisés locaux pour m'entraîner en conditions réelles :*
 
 * **Système & Identité :** Déploiement d'Active Directory, gestion des GPO (LAPS) et synchronisation hybride avec Azure AD (Entra ID).
@@ -15,7 +15,7 @@ Mon objectif : poursuivre sur un Bac+5 en Cybersécurité.
 
 ---
 
-### 🛠 Compétences Techniques
+### Compétences Techniques
 
 * **Réseaux & Sécurité :** Architecture IP, pfSense, VLANs, SIEM (Wazuh), Postfix, Active Directory.
 * **Développement :** C++, Java, PHP, HTML/CSS/JS, PostgreSQL.
@@ -23,7 +23,7 @@ Mon objectif : poursuivre sur un Bac+5 en Cybersécurité.
 
 ---
 
-### 📫 Me contacter
+### Me contacter
 
 * **Email :** [guillian.gely@etu.univ-amu.fr](mailto:guillian.gely@etu.univ-amu.fr)
 * **Localisation :** Arles
